@@ -1,2 +1,3 @@
 # BLACKJACK
-blackjack game
+blackjack game is now
+
